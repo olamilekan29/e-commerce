@@ -8,7 +8,7 @@ const Home = () =>{
    <div className='grid mt-30'> 
     <h1 className="text-white md:text-5xl text-xl font-bold mb-4">TOP DEALS. TOP PICKS. TOP QUALITY.</h1>
     <p className='md:text-[#323232] text-white mb-4'> Get the products you want without breaking the bank.<br className="hidden lg:block"/> Shop smart, shop better.</p>
-    <button className='md:w-[150px] w-[250px] h-[50px] rounded-4xl bg-[#386641] text-white cursor-pointer '>Shop for more</button>
+    <button className='md:w-[150px] w-[250px] h-[50px] rounded-4xl bg-blue-600 text-white cursor-pointer '>Shop for more</button>
   </div>
   </div>
 
